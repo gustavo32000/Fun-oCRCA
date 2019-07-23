@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\bin\Debug\netcoreapp2.1\FunçãoCRCA.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\bin\Debug\netcoreapp2.1\FunçãoCRCA.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\bin\Debug\netcoreapp2.1\FunçãoCRCA.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\bin\Debug\netcoreapp2.1\FunçãoCRCA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\bin\Debug\netcoreapp2.1\FunçãoCRCA.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRCA\obj\Debug\netcoreapp2.1\FunçãoCRCA.pdb
